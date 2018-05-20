@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonApp", "Polygon\PolygonApp.csproj", "{0BEEF2B9-BFCD-4A74-9F0E-AB920DA5778A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonConsoleApp", "Polygon\PolygonConsoleApp.csproj", "{0BEEF2B9-BFCD-4A74-9F0E-AB920DA5778A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolygonLibrary", "PolygonLibrary\PolygonLibrary.csproj", "{EA24DBB7-EB0A-4F9F-9672-3A4DD8A002E8}"
 EndProject

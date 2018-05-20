@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using PolygonLibrary;
 
-namespace PolygonApp
+namespace PolygonConsoleApp
 {
     class Program
     {

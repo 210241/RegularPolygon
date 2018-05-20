@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0BEEF2B9-BFCD-4A74-9F0E-AB920DA5778A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Polygon</RootNamespace>
-    <AssemblyName>Polygon</AssemblyName>
+    <RootNamespace>PolygonConsoleApp</RootNamespace>
+    <AssemblyName>PolygonConsoleApp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
