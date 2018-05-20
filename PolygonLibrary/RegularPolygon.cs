@@ -46,6 +46,10 @@ namespace PolygonLibrary
             Array.Copy(vertices, verticesCoordinates, vertexNumber);
         }
 
+        /// <summary>
+        /// Getter for verticies. Returns copy to ensure static state of polygon.
+        /// </summary>
+        /// <returns></returns>
         public Vertex[] VerticesCoordinates()
         {
             Vertex[] temp = new Vertex[_vertexNumber];
